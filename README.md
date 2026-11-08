@@ -1,51 +1,91 @@
-# Design without the AI look
+<h1 align="center">Design without the AI look</h1>
 
-A skill for Claude that helps you design and code templates and websites that do not look AI-made. It gives Claude a default list of habits to avoid (status pills, numbered sections, decorative slashes, generic card grids and more), asks it to define an identity for each project before drawing, and ends with a review.
+<p align="center">
+  <a href="README.md">English</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="README.pt-BR.md">Português</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="README.es.md">Español</a>
+</p>
 
-The list is a starting point. You can add your own things to avoid, release default habits you actually like, and swap the suggested alternative for any habit.
+<p align="center">
+  <a href="#computer-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#bulb-how-it-works">How it works</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#sparkles-what-it-avoids">What it avoids</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#eyes-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
 
-**Install only one language folder.** The three folders do the same job. If you install more than one, Claude will load them all at once.
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=6D4FD8&labelColor=grey">
+  <img alt="Type" src="https://img.shields.io/static/v1?label=type&message=Claude%20skill&color=137A67&labelColor=grey">
+  <img alt="Languages" src="https://img.shields.io/static/v1?label=languages&message=EN%20%C2%B7%20PT%20%C2%B7%20ES&color=lightgrey&labelColor=grey">
+</p>
+
+## :computer: Project
+
+**Design without the AI look** is a skill for Claude that helps you design and code templates and websites that do not look AI-made.
+
+It started from a real problem: a lot of people want to make templates with AI, and the results all share the same tics. Status pills on everything, numbered sections, decorative slashes, three identical cards in a row, a glow behind the headline. Each one is small, but together they give the work away.
+
+The skill gives Claude a default list of those habits to avoid, asks it to define an identity for each project before drawing anything, and closes with a review.
+
+## :bulb: How it works
+
+- **Your adjustments come first.** The default list is a starting point. You can add your own things to avoid, release default habits you actually like, and swap the suggested alternative for any habit.
+- **Identity before layout.** Before drawing, Claude answers in writing: what is the concept's universe, what is the skeleton, which palette and type, and what is the brand element that would make no sense in another project.
+- **A list of habits, each with an alternative.** Not just "do not do this", but what to do instead.
+- **A final review.** A logo test (without the logo, would anyone know whose project this is?) and a neighbor test (next to another of your projects, are they easy to confuse?).
+
+## :sparkles: What it avoids
+
+These are the defaults. Every one can be released.
+
+| Habit | Instead |
+|---|---|
+| Status pills and decorative tags | Plain text placed well, or an element from the concept's universe |
+| Page, section and card numbering | Real data only: dates, times, durations, prices |
+| Slashes as separators | A space, a middle dot, a line |
+| Dashes in the text | A comma, a period or a colon |
+| Tiny uppercase label above a big headline | A headline that stands on its own |
+| Glows, shine, generic purple and blue gradients | Flat color with a clear job |
+| Three identical cards with icon, title and sentence | A layout built for the content |
+| Vague marketing phrases and lorem ipsum | Specific copy with plausible names, places and dates |
+| The same composition in every section | One visual idea per section |
+
+The full list, with the reasons, is in the skill file.
+
+## :eyes: How to use
+
+The repository has three folders with the same skill in three languages.
 
 | Language | Folder |
-| --- | --- |
+|---|---|
 | English | `design-without-ai-look` |
 | Português | `design-sem-cara-de-ia` |
 | Español | `diseno-sin-cara-de-ia` |
 
-## How to install
+**Install only one.** If you install more than one, Claude loads them all at once.
 
-**Claude (app and website):** download this repository as a zip, then zip the one language folder you want (the folder must contain `SKILL.md` at its top level) and upload it in Settings, in the Skills area. Menu names change over time, so check the current ones.
+### Claude (app and website)
 
-**Claude Code:** copy the language folder to `~/.claude/skills/`, or to `.claude/skills/` inside a single project.
+1. Download this repository (**Code, Download ZIP**) and unzip it.
+2. Zip the one language folder you want. The folder must have `SKILL.md` at its top level.
+3. In Settings, open the Skills area and upload the zip. Menu names change over time, so check the current ones.
 
-## How to customize
+### Claude Code
 
-Add a block like this to your `CLAUDE.md`, your brief, or just tell Claude in the conversation:
+Copy the language folder to `~/.claude/skills/`, or to `.claude/skills/` inside a single project.
 
-```
-## Design without the AI look: adjustments
-Also avoid: sticky notes, rounded stat cards
-Release (no need to remove): status pills
-Preferred alternatives: use a plain line instead of a slash between menu items
-```
+### Customize it
 
-If no adjustments exist, the skill asks once and writes your answer into this block.
+Add a block like this to your `CLAUDE.md`, to your brief, or just tell Claude in the conversation:
 
-## What is inside
+    ## Design without the AI look: adjustments
+    Also avoid: sticky notes, rounded stat cards
+    Release (no need to remove): status pills
+    Preferred alternatives: a plain line instead of a slash between menu items
 
-- Step 0: your adjustments, which override every default rule.
-- Step 1: identity before layout (concept universe, skeleton, palette and type, brand element).
-- Default habits to avoid, each with an alternative.
-- What to do, rules for code, and a final review with a logo test and a neighbor test.
+If there are no adjustments, the skill asks once and writes your answer into this block.
 
-## Português
+## :memo: License
 
-Uma skill para o Claude que ajuda a criar templates e sites sem cara de IA. Traz uma lista padrão de vícios a evitar (pílulas de status, seções numeradas, barras decorativas, grades de cards genéricos e outros), pede uma identidade para cada projeto antes de desenhar e termina com uma revisão. Você pode acrescentar proibições suas, liberar vícios padrão de que gosta e trocar a alternativa sugerida. Instale só uma pasta de idioma: `design-sem-cara-de-ia`.
-
-## Español
-
-Una skill para Claude que ayuda a crear plantillas y sitios web sin cara de IA. Incluye una lista por defecto de vicios que evitar (píldoras de estado, secciones numeradas, barras decorativas, cuadrículas de tarjetas genéricas y más), pide una identidad para cada proyecto antes de diseñar y termina con una revisión. Puedes añadir tus propias prohibiciones, liberar vicios por defecto que sí te gustan y cambiar la alternativa sugerida. Instala solo una carpeta de idioma: `diseno-sin-cara-de-ia`.
-
-## License
-
-MIT. See `LICENSE`.
+Released under the MIT license. You can use, copy, adapt and share it, as long as you keep the copyright notice. See [LICENSE](LICENSE).
