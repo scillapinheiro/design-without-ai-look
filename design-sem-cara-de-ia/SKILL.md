@@ -40,6 +40,13 @@ Se não houver outros projetos à vista, peça uma referência ou pule a compara
 
 Se a pessoa já tem cores, fontes ou logo de marca, essa é a identidade. Use-os e construa o resto (composição, formas, tom) em torno deles. A pergunta 3 passa a ser: quais cores e fontes da marca eu uso, e para qual função?
 
+Exemplo das respostas por escrito, para um cartaz do concerto de outono de um coral comunitário (sem marca ainda; o texto do exemplo fica em inglês):
+
+1. Universe: sheet music, breath, wooden church benches, October light.
+2. Skeleton: one tall piece. The date and place come first and big, the program is a staggered list, the ticket line sits at the bottom. Not a centered title with a button.
+3. Palette: ink brown for text, pumpkin for the date, cream for the paper, moss for small details. One serif for the choir's name and one plain sans for everything else.
+4. Brand element: a row of singers drawn as simple shapes that grow from left to right like a rising scale. It would make no sense on any other piece.
+
 ## Vícios que entregam o trabalho de IA (cada um pode ser liberado no Passo 0)
 
 **Pílulas de status e etiquetas.** Etiquetas arredondadas como "NEW", "ON SALE", "LIVE", tags de categoria usadas como enfeite. Alternativa: texto simples bem posicionado, ou um elemento do universo do conceito (selo, carimbo, bilhete, botão). Uma etiqueta só vale quando carrega informação que o visitante precisa naquele ponto. Por quê: geradores põem etiqueta de status em todo bloco para parecer movimento e novidade, e uma etiqueta sem informação nova é só ruído.
