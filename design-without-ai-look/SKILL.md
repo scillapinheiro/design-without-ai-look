@@ -62,6 +62,8 @@ Write these decisions down, with real numbers, before you draw. They are also th
 
 ## Habits that give AI work away (each one can be released in Step 0)
 
+The principle comes before the list: if your first idea would fit any business of the same type, discard it and start again from this business.
+
 **Status pills and tags.** Rounded labels such as "NEW", "ON SALE", "LIVE", category tags used as decoration. Alternative: plain text placed well, or an element from the concept's real universe that has not appeared in another project. Do not repeat the same alternative in neighboring sections. A label is only worth it when it carries information the visitor needs at that point. Why: generators add a status label to every block to look busy and current, and a label that carries no news is just noise.
 
 **Numbering.** Page, section or card numbers ("01", "02", "Page 2 of 5"), decorative counters and statistics with no source. Real data that is needed (dates, times, durations, prices) is fine. Why: numbers suggest a process or a ranking the content does not have, and statistics with no source look invented.
@@ -89,6 +91,14 @@ These are matters of taste more than signs of AI. They are on by default because
 **Dashes in the text.** Use a comma, a period or a colon. Why: long dashes are one of the most recognizable habits of generated text.
 
 **Italic serif** as an automatic "elegant touch". Why: it is an automatic way of looking elegant that turns up in a lot of generated work.
+
+## Examples observed in tests (an open list that ages)
+
+Seen in November 2026 with Claude Sonnet 5.5, on the prompt "first screen of a neighborhood bakery". Models change, so read this as a sample of defaults, not as a complete list.
+
+- Without the skill: a cream background with brown and terracotta, a serif headline with one word in another color, a two column hero with the object in a rounded rectangle on the right, a floating card or label, a pair of buttons (one filled, one outlined), a footer strip with three columns.
+- With an earlier version of this skill: the same "ticket, stamp or order slip" object in every output (the list of alternatives became the next habit), loose decorative lines, a recolored word in the headline, a button with a hard shadow.
+- With a rule that said "change palette, type and structure on purpose": the opposite extreme, a giant name on a flat saturated color, one idea shouting. One output had a cut off headline and another a large empty area, because nobody rendered the result.
 
 ## Do
 
