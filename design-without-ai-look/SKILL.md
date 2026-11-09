@@ -36,6 +36,10 @@ Answer in writing before designing:
 
 If the skeleton, palette or typography look like another project's, change them before going on.
 
+If no other projects are in view, ask for one reference, or skip the comparison and say that you skipped it.
+
+If the person already has brand colors, fonts or a logo, those are the identity. Use them and build the rest (composition, shapes, tone) around them. Question 3 then becomes: which of the brand's colors and fonts do I use, and for what job?
+
 ## Habits that give AI work away (each one can be released in Step 0)
 
 **Status pills and tags.** Rounded labels such as "NEW", "ON SALE", "LIVE", category tags used as decoration. Alternative: plain text placed well, or an element from the concept's universe (stamp, seal, ticket, button). A label is only worth it when it carries information the visitor needs at that point. Why: generators add a status label to every block to look busy and current, and a label that carries no news is just noise.
@@ -86,5 +90,5 @@ These are matters of taste more than signs of AI. They are on by default because
 
 1. Check the person's adjustments and the list of habits above, item by item. Look especially for forgotten pills, numbers, slashes and dashes in menus, footers, cards and supporting text.
 2. Logo test: if I removed the logo, would anyone know which project this is? If not, identity is missing.
-3. Neighbor test: put it next to another project by the same person. If swapping the name and the color would be enough to confuse the two, redo the skeleton.
+3. Neighbor test: put it next to another project by the same person. If swapping the name and the color would be enough to confuse the two, redo the skeleton. If no other work is in view, ask for one reference or skip this test and say that you skipped it.
 4. Report what you found and what you changed.

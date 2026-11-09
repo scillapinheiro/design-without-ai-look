@@ -36,6 +36,10 @@ Responda por escrito, antes de desenhar:
 
 Se esqueleto, paleta ou tipografia forem parecidos com outro projeto, mude antes de continuar.
 
+Se não houver outros projetos à vista, peça uma referência ou pule a comparação e avise que pulou.
+
+Se a pessoa já tem cores, fontes ou logo de marca, essa é a identidade. Use-os e construa o resto (composição, formas, tom) em torno deles. A pergunta 3 passa a ser: quais cores e fontes da marca eu uso, e para qual função?
+
 ## Vícios que entregam o trabalho de IA (cada um pode ser liberado no Passo 0)
 
 **Pílulas de status e etiquetas.** Etiquetas arredondadas como "NEW", "ON SALE", "LIVE", tags de categoria usadas como enfeite. Alternativa: texto simples bem posicionado, ou um elemento do universo do conceito (selo, carimbo, bilhete, botão). Uma etiqueta só vale quando carrega informação que o visitante precisa naquele ponto. Por quê: geradores põem etiqueta de status em todo bloco para parecer movimento e novidade, e uma etiqueta sem informação nova é só ruído.
@@ -86,5 +90,5 @@ Estas são mais questão de gosto do que sinal de IA. Vêm ligadas por padrão p
 
 1. Confira item por item os ajustes da pessoa e a lista de vícios acima. Procure em especial pílulas esquecidas, números, barras e travessões em menus, rodapés, cards e textos de apoio.
 2. Teste do logo: se eu tirasse o logo, alguém saberia de qual projeto é? Se não, falta identidade.
-3. Teste da vizinhança: coloque ao lado de outro projeto da mesma pessoa. Se trocar o nome e a cor bastasse para confundir os dois, refaça o esqueleto.
+3. Teste da vizinhança: coloque ao lado de outro projeto da mesma pessoa. Se trocar o nome e a cor bastasse para confundir os dois, refaça o esqueleto. Se não houver outro trabalho à vista, peça uma referência ou pule este teste e avise que pulou.
 4. Reporte o que encontrou e o que mudou.

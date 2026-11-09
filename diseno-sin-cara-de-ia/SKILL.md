@@ -36,6 +36,10 @@ Responde por escrito antes de diseñar:
 
 Si el esqueleto, la paleta o la tipografía se parecen a los de otro proyecto, cámbialos antes de seguir.
 
+Si no hay otros proyectos a la vista, pide una referencia o salta la comparación y avisa de que la saltaste.
+
+Si la persona ya tiene colores, fuentes o logo de marca, esa es la identidad. Úsalos y construye el resto (composición, formas, tono) a su alrededor. La pregunta 3 pasa a ser: ¿qué colores y fuentes de la marca uso, y para qué función?
+
 ## Vicios que delatan el trabajo de IA (cada uno se puede liberar en el Paso 0)
 
 **Píldoras de estado y etiquetas.** Etiquetas redondeadas como "NEW", "ON SALE", "LIVE", tags de categoría usadas como adorno. Alternativa: texto simple bien colocado, o un elemento del universo del concepto (sello, tampón, entrada, botón). Una etiqueta solo vale cuando lleva información que el visitante necesita en ese punto. Por qué: los generadores ponen una etiqueta de estado en cada bloque para parecer movimiento y novedad, y una etiqueta sin noticia nueva es solo ruido.
@@ -86,5 +90,5 @@ Estas son más cuestión de gusto que señal de IA. Vienen activadas por defecto
 
 1. Revisa uno por uno los ajustes de la persona y la lista de vicios de arriba. Busca en especial píldoras olvidadas, números, barras y rayas en menús, pies de página, tarjetas y textos de apoyo.
 2. Prueba del logo: si quitara el logo, ¿alguien sabría de qué proyecto es? Si no, falta identidad.
-3. Prueba del vecino: ponlo junto a otro proyecto de la misma persona. Si cambiar el nombre y el color bastara para confundirlos, rehaz el esqueleto.
+3. Prueba del vecino: ponlo junto a otro proyecto de la misma persona. Si cambiar el nombre y el color bastara para confundirlos, rehaz el esqueleto. Si no hay otro trabajo a la vista, pide una referencia o salta esta prueba y avisa de que la saltaste.
 4. Informa de lo que encontraste y de lo que cambiaste.
