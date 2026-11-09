@@ -23,7 +23,7 @@
 
 ## :computer: Project
 
-**Design without the AI look** is a skill that helps an AI design and code templates, websites and other graphic material (posters, slides, social posts, banners, covers) that does not look AI-made. It was made with Claude and works as a Claude skill; see "Other AI tools" below for the rest.
+**Design without the AI look** is a skill that helps an AI design and code templates, websites and other graphic material (posters, slides, social posts, banners, covers) that has a better chance of an identity of its own instead of the generic AI look. It was made with Claude and works as a Claude skill; see "Other AI tools" below for the rest.
 
 It started from a real problem: a lot of people want to make templates with AI, and the results all share the same tics. Status pills on everything, numbered sections, decorative slashes, three identical cards in a row, a glow behind the headline. Each one is small, but together they give the work away.
 

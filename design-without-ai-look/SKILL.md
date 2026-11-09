@@ -1,11 +1,11 @@
 ---
 name: "design-without-ai-look"
-description: "Use when designing or coding templates, websites and other graphic material (posters, slides, social posts, banners, covers) to avoid the generic AI look: own identity, customizable default habits to avoid, realistic copy and a final review."
+description: "Use when designing or coding templates, websites and other graphic material (posters, slides, social posts, banners, covers) and the result should have an identity of its own instead of the generic AI look: decisions written before drawing, customizable default habits to avoid, realistic copy and a final review you can run."
 ---
 
 # Design without the AI look
 
-Use this skill whenever you design any graphic material (a website or template, poster, slide, social post, banner, cover), build a design in a tool (Figma, Canva and so on) or turn a design into code. The goal: every project has its own identity, does not look like it came out of a generator, and does not look like another project by the same person.
+Use this skill whenever you design any graphic material (a website or template, poster, slide, social post, banner, cover), build a design in a tool (Figma, Canva and so on) or turn a design into code. The goal: give each project a better chance of an identity of its own, one that is not the generator default and not another project by the same person.
 
 ## Step 0: the person's adjustments (they override every rule below)
 
