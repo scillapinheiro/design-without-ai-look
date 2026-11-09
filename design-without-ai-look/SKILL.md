@@ -36,19 +36,13 @@ Answer in writing before designing:
 
 If the skeleton, palette or typography look like another project's, change them before going on.
 
-## Default habits to avoid (each one can be released in Step 0)
+## Habits that give AI work away (each one can be released in Step 0)
 
 **Status pills and tags.** Rounded labels such as "NEW", "ON SALE", "LIVE", category tags used as decoration. Alternative: plain text placed well, or an element from the concept's universe (stamp, seal, ticket, button). A label is only worth it when it carries information the visitor needs at that point. Why: generators add a status label to every block to look busy and current, and a label that carries no news is just noise.
 
 **Numbering.** Page, section or card numbers ("01", "02", "Page 2 of 5"), decorative counters and statistics with no source. Real data that is needed (dates, times, durations, prices) is fine. Why: numbers suggest a process or a ranking the content does not have, and statistics with no source look invented.
 
-**Slashes as separators.** A single slash ("/") or double slash ("//") between words, in menus, labels, dates or credits. Alternative: a space, a middle dot, a line, or an element from the concept. Why: it is a decorative stand-in for a separator, common in generated menus, dates and credits.
-
-**Dashes in the text.** Use a comma, a period or a colon. Why: long dashes are one of the most recognizable habits of generated text.
-
 **Tiny uppercase label** above a big headline, repeated in every section. Alternative: a headline that stands on its own. Why: it is a stock gesture for adding hierarchy, and repeated in every section it becomes a template stamp.
-
-**Italic serif** as an automatic "elegant touch". Why: it is an automatic way of looking elegant that turns up in a lot of generated work.
 
 **Glows and shine**, diffuse colored shadows, generic purple and blue gradients. Alternative: flat color with a clear job. Why: they are the default of image models and gradient presets, so they say "generated" at first glance.
 
@@ -61,6 +55,16 @@ If the skeleton, palette or typography look like another project's, change them 
 **Illustrating where the person will put their own photo.** Illustration is brand art; photo spaces stay empty and easy to swap. Why: the person will replace it anyway, and it hides the fact that a photo is still missing.
 
 **The same composition in every section** (centered title, button below, image behind). Alternative: one visual idea per section. Why: repeating one layout makes the page read as a single idea stretched out.
+
+## The author's own pet peeves (on by default, release freely)
+
+These are matters of taste more than signs of AI. They are on by default because the author of this skill dislikes them. Release any of them in Step 0.
+
+**Slashes as separators.** A single slash ("/") or double slash ("//") between words, in menus, labels, dates or credits. Alternative: a space, a middle dot, a line, or an element from the concept. Why: it is a decorative stand-in for a separator, common in generated menus, dates and credits.
+
+**Dashes in the text.** Use a comma, a period or a colon. Why: long dashes are one of the most recognizable habits of generated text.
+
+**Italic serif** as an automatic "elegant touch". Why: it is an automatic way of looking elegant that turns up in a lot of generated work.
 
 ## Do
 
