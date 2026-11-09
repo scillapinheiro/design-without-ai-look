@@ -72,13 +72,13 @@ Estas são mais questão de gosto do que sinal de IA. Vêm ligadas por padrão p
 - Um elemento dominante por tela, com respiro em volta.
 - Escala tipográfica com contraste real (título muito maior que corpo).
 - Texto com voz de pessoa real: específico, curto, sem clichê.
-- Contraste mínimo WCAG AA. Se o design falha, avise a pessoa em vez de corrigir sozinho.
-- Respeitar o que já foi aprovado: se o código ou a revisão exigir mudar um layout aprovado, pergunte antes.
+- Contraste mínimo WCAG AA. Se houver um design ou briefing aprovado e ele falhar, avise a pessoa e proponha uma correção em vez de mudar sozinho.
+- Se já existe um layout aprovado, respeite: se o código ou a revisão exigir mudar esse layout, pergunte antes.
 
 ## Código
 
 - HTML semântico, variáveis CSS no topo para cores, fontes e medidas.
-- Fidelidade ao design: mesmas seções, ordem, textos, cores e fontes.
+- Ao transformar um design existente em código, mantenha a fidelidade a ele: mesmas seções, ordem, textos, cores e fontes.
 - Animação com propósito ligado ao conceito, não efeito de entrada genérico em tudo.
 - Ilustrações e elementos de marca em SVG, não em imagem raster.
 

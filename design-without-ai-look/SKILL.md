@@ -72,13 +72,13 @@ These are matters of taste more than signs of AI. They are on by default because
 - One dominant element per screen, with room around it.
 - A type scale with real contrast (headline much bigger than body).
 - Copy in a real person's voice: specific, short, no cliché.
-- WCAG AA contrast at minimum. If the design fails, tell the person instead of fixing it alone.
-- Respect what is already approved: if the code or the review needs a change to an approved layout, ask first.
+- WCAG AA contrast at minimum. If there is an approved design or brief and it fails, tell the person and propose a fix instead of changing it alone.
+- If there is already an approved layout, respect it: if the code or the review needs a change to it, ask first.
 
 ## Code
 
 - Semantic HTML, CSS variables at the top for colors, fonts and sizes.
-- Fidelity to the design: same sections, order, texts, colors and fonts.
+- When turning an existing design into code, keep fidelity to it: same sections, order, texts, colors and fonts.
 - Animation with a purpose tied to the concept, not a generic entrance effect on everything.
 - Illustrations and brand elements in SVG, not raster images.
 

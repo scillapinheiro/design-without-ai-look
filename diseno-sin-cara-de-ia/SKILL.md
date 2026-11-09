@@ -72,13 +72,13 @@ Estas son más cuestión de gusto que señal de IA. Vienen activadas por defecto
 - Un elemento dominante por pantalla, con aire alrededor.
 - Escala tipográfica con contraste real (titular mucho mayor que el cuerpo).
 - Texto con voz de persona real: específico, corto, sin cliché.
-- Contraste mínimo WCAG AA. Si el diseño falla, avisa a la persona en lugar de corregirlo por tu cuenta.
-- Respetar lo ya aprobado: si el código o la revisión exigen cambiar un layout aprobado, pregunta antes.
+- Contraste mínimo WCAG AA. Si hay un diseño o brief aprobado y falla, avisa a la persona y propón una corrección en lugar de cambiarlo por tu cuenta.
+- Si ya existe un layout aprobado, respétalo: si el código o la revisión exigen cambiarlo, pregunta antes.
 
 ## Código
 
 - HTML semántico, variables CSS al inicio para colores, fuentes y medidas.
-- Fidelidad al diseño: mismas secciones, orden, textos, colores y fuentes.
+- Al convertir un diseño existente en código, mantén la fidelidad a él: mismas secciones, orden, textos, colores y fuentes.
 - Animación con propósito ligado al concepto, no un efecto de entrada genérico en todo.
 - Ilustraciones y elementos de marca en SVG, no en imagen raster.
 
