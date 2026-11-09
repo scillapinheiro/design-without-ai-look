@@ -15,7 +15,7 @@ A lista de vícios desta skill é um ponto de partida. A pessoa pode mudar de tr
 2. **Liberar** vícios padrão que ela não quer tirar (por exemplo, "pode usar pílulas" ou "pode usar barras").
 3. **Trocar a alternativa** sugerida para um vício, se ela preferir outra.
 
-Procure esses ajustes em CLAUDE.md, README, briefing ou na conversa, em um bloco como este:
+Procure esses ajustes em CLAUDE.md, AGENTS.md ou no arquivo de instruções que a ferramenta lê, no README, no briefing ou na conversa, em um bloco como este:
 
 ```
 ## Design sem cara de IA: ajustes

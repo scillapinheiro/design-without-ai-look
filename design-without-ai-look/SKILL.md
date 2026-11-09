@@ -15,7 +15,7 @@ The list of habits in this skill is a starting point. The person can change it i
 2. **Release** default habits they do not want removed (for example, "pills are fine" or "slashes are fine").
 3. **Swap the alternative** suggested for a habit, if they prefer another one.
 
-Look for these adjustments in CLAUDE.md, README, the brief or the conversation, in a block like this:
+Look for these adjustments in CLAUDE.md, AGENTS.md or whichever instruction file the tool reads, in the README, the brief or the conversation, in a block like this:
 
 ```
 ## Design without the AI look: adjustments

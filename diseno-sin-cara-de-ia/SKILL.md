@@ -15,7 +15,7 @@ La lista de vicios de esta skill es un punto de partida. La persona puede cambia
 2. **Liberar** vicios por defecto que no quiere quitar (por ejemplo, "se pueden usar píldoras" o "se pueden usar barras").
 3. **Cambiar la alternativa** sugerida para un vicio, si prefiere otra.
 
-Busca estos ajustes en CLAUDE.md, README, el brief o la conversación, en un bloque como este:
+Busca estos ajustes en CLAUDE.md, AGENTS.md o en el archivo de instrucciones que lee la herramienta, en el README, en el brief o en la conversación, en un bloque como este:
 
 ```
 ## Diseño sin cara de IA: ajustes
