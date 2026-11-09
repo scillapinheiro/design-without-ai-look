@@ -131,7 +131,18 @@ Everything above applies to every format: poster, slide, social post, banner, co
 
 ## Final review (before showing)
 
-1. Check the person's adjustments and the list of habits above, item by item. Look especially for forgotten pills, numbers, slashes and dashes in menus, footers, cards and supporting text.
-2. Logo test: if I removed the logo, would anyone know which project this is? If not, identity is missing.
-3. Neighbor test: put it next to another project by the same person. If swapping the name and the color would be enough to confuse the two, redo the skeleton. If no other work is in view, ask for one reference or skip this test and say that you skipped it.
+1. Check the person's adjustments and the habits above, item by item. Look especially for forgotten pills, numbers, slashes and dashes in menus, footers, cards and supporting text.
+2. Check the result against your Step 2 decisions: dominant element, type scale, spacing unit, three composition moves.
+3. If you can render, render at desktop and phone sizes and run the first five tests below. If you cannot, say that you did not check the visual result. The last two tests always apply.
+
+| Test | What to look for |
+|---|---|
+| Blur | Blur or squint at the render: does the hierarchy still show? |
+| Gray | Remove the color: does the page still hold together? |
+| Swap | Put another business's text in: if nothing about the page objects, it is generic |
+| Count | Font sizes, colors and repeated components: more than you decided in Step 2? |
+| Cut and empty | Text cut by an edge, overlaps, large empty areas |
+| Logo | Remove the logo: would anyone know which project this is? If not, identity is missing |
+| Neighbor | Put it next to another project by the same person: if swapping the name and the color would be enough to confuse the two, redo the skeleton. If no other work is in view, ask for one reference or skip this test and say that you skipped it |
+
 4. Report what you found and what you changed.
