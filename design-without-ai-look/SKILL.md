@@ -47,6 +47,17 @@ Example of the written answers, for a flyer for a community choir's autumn conce
 3. Palette: ink brown for text, pumpkin for the date, cream for the paper, moss for small details. One serif for the choir's name and one plain sans for everything else.
 4. Brand element: a row of singers drawn as simple shapes that grow from left to right like a rising scale. It would make no sense on any other piece.
 
+## Step 2: decide before drawing
+
+Write these decisions down, with real numbers, before you draw. They are also the checklist for the final review.
+
+| Decision | What to write |
+|---|---|
+| Dominant element | The one thing each screen or page is about, and what gives it room |
+| Type scale | Real sizes for headline, subhead, body and small text (for example 72, 32, 18 and 14), with the headline several times the body |
+| Spacing unit | One base unit (for example 8) and the few multiples you will use |
+| Three composition moves | Three choices that shape the layout, such as an off center anchor, a deliberate crop or a change of density between sections. Not decoration |
+
 ## Habits that give AI work away (each one can be released in Step 0)
 
 **Status pills and tags.** Rounded labels such as "NEW", "ON SALE", "LIVE", category tags used as decoration. Alternative: plain text placed well, or an element from the concept's universe (stamp, seal, ticket, button). A label is only worth it when it carries information the visitor needs at that point. Why: generators add a status label to every block to look busy and current, and a label that carries no news is just noise.
@@ -80,8 +91,6 @@ These are matters of taste more than signs of AI. They are on by default because
 ## Do
 
 - Each section has its own visual idea tied to the concept, not just a block of text on a background.
-- One dominant element per screen, with room around it.
-- A type scale with real contrast (headline much bigger than body).
 - Copy in a real person's voice: specific, short, no cliché.
 - WCAG AA contrast at minimum. If there is an approved design or brief and it fails, tell the person and propose a fix instead of changing it alone.
 - If there is already an approved layout, respect it: if the code or the review needs a change to it, ask first.
