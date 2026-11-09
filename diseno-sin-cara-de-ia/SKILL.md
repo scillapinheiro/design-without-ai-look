@@ -38,29 +38,29 @@ Si el esqueleto, la paleta o la tipografía se parecen a los de otro proyecto, c
 
 ## Vicios por defecto que evitar (cada uno se puede liberar en el Paso 0)
 
-**Píldoras de estado y etiquetas.** Etiquetas redondeadas como "NEW", "ON SALE", "LIVE", tags de categoría usadas como adorno. Alternativa: texto simple bien colocado, o un elemento del universo del concepto (sello, tampón, entrada, botón). Una etiqueta solo vale cuando lleva información que el visitante necesita en ese punto.
+**Píldoras de estado y etiquetas.** Etiquetas redondeadas como "NEW", "ON SALE", "LIVE", tags de categoría usadas como adorno. Alternativa: texto simple bien colocado, o un elemento del universo del concepto (sello, tampón, entrada, botón). Una etiqueta solo vale cuando lleva información que el visitante necesita en ese punto. Por qué: los generadores ponen una etiqueta de estado en cada bloque para parecer movimiento y novedad, y una etiqueta sin noticia nueva es solo ruido.
 
-**Numeración.** Números de página, de sección o de tarjeta ("01", "02", "Page 2 of 5"), contadores decorativos y estadísticas sin fuente. Los datos reales necesarios (fechas, horarios, duraciones, precios) sí se pueden.
+**Numeración.** Números de página, de sección o de tarjeta ("01", "02", "Page 2 of 5"), contadores decorativos y estadísticas sin fuente. Los datos reales necesarios (fechas, horarios, duraciones, precios) sí se pueden. Por qué: los números sugieren un proceso o un ranking que el contenido no tiene, y las estadísticas sin fuente parecen inventadas.
 
-**Barras como separador.** Barra simple ("/") o doble ("//") entre palabras, en menús, etiquetas, fechas o créditos. Alternativa: un espacio, un punto medio, una línea o un elemento del concepto.
+**Barras como separador.** Barra simple ("/") o doble ("//") entre palabras, en menús, etiquetas, fechas o créditos. Alternativa: un espacio, un punto medio, una línea o un elemento del concepto. Por qué: es un adorno en lugar de un separador, común en menús, fechas y créditos generados.
 
-**Rayas en el texto.** Usa coma, punto o dos puntos.
+**Rayas en el texto.** Usa coma, punto o dos puntos. Por qué: las rayas largas son uno de los hábitos más reconocibles del texto generado.
 
-**Etiqueta minúscula en mayúsculas** sobre un titular grande, repetida en cada sección.
+**Etiqueta minúscula en mayúsculas** sobre un titular grande, repetida en cada sección. Alternativa: un titular que se sostiene solo. Por qué: es un gesto hecho para crear jerarquía y, repetido en cada sección, se vuelve un sello de plantilla.
 
-**Serif cursiva** como "toque elegante" automático.
+**Serif cursiva** como "toque elegante" automático. Por qué: es una forma automática de parecer elegante que aparece en mucho trabajo generado.
 
-**Brillos y resplandores**, sombras de color difusas, degradados morado y azul genéricos.
+**Brillos y resplandores**, sombras de color difusas, degradados morado y azul genéricos. Alternativa: color plano con una función clara. Por qué: son el valor por defecto de los modelos de imagen y de los degradados prediseñados, así que dicen "generado" a primera vista.
 
-**Cuadrícula de tres tarjetas iguales** con icono, título y frase.
+**Cuadrícula de tres tarjetas iguales** con icono, título y frase. Alternativa: un layout hecho para el contenido. Por qué: llena una fila sin decidir qué importa, y la cuadrícula moldea el contenido en lugar de lo contrario.
 
-**Iconos de línea genéricos** en lugar de arte pensado para el concepto.
+**Iconos de línea genéricos** en lugar de arte pensado para el concepto. Por qué: vienen de los mismos pocos conjuntos de iconos que usa todo el mundo, así que no dicen nada de este concepto.
 
-**Frases vagas de marketing** ("Elevate your sound", "Crafted with passion") y **lorem ipsum**. Escribe texto específico, con nombres, lugares y fechas verosímiles.
+**Frases vagas de marketing** ("Elevate your sound", "Crafted with passion") y **lorem ipsum**. Escribe texto específico, con nombres, lugares y fechas verosímiles. Por qué: una frase que describiría cualquier producto no describe ninguno, y el texto provisional oculta si el layout funciona con palabras reales.
 
-**Ilustrar donde la persona pondrá su propia foto.** La ilustración es arte de marca; los espacios de foto quedan vacíos y fáciles de cambiar.
+**Ilustrar donde la persona pondrá su propia foto.** La ilustración es arte de marca; los espacios de foto quedan vacíos y fáciles de cambiar. Por qué: la persona la va a cambiar de todos modos, y oculta que todavía falta una foto.
 
-**La misma composición en todas las secciones** (título centrado, botón debajo, imagen de fondo).
+**La misma composición en todas las secciones** (título centrado, botón debajo, imagen de fondo). Alternativa: una idea visual por sección. Por qué: repetir un layout hace que la página parezca una sola idea estirada.
 
 ## Hacer
 

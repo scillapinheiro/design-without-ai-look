@@ -38,29 +38,29 @@ Se esqueleto, paleta ou tipografia forem parecidos com outro projeto, mude antes
 
 ## Vícios padrão a evitar (cada um pode ser liberado no Passo 0)
 
-**Pílulas de status e etiquetas.** Etiquetas arredondadas como "NEW", "ON SALE", "LIVE", tags de categoria usadas como enfeite. Alternativa: texto simples bem posicionado, ou um elemento do universo do conceito (selo, carimbo, bilhete, botão). Uma etiqueta só vale quando carrega informação que o visitante precisa naquele ponto.
+**Pílulas de status e etiquetas.** Etiquetas arredondadas como "NEW", "ON SALE", "LIVE", tags de categoria usadas como enfeite. Alternativa: texto simples bem posicionado, ou um elemento do universo do conceito (selo, carimbo, bilhete, botão). Uma etiqueta só vale quando carrega informação que o visitante precisa naquele ponto. Por quê: geradores põem etiqueta de status em todo bloco para parecer movimento e novidade, e uma etiqueta sem informação nova é só ruído.
 
-**Numeração.** Números de página, de seção ou de card ("01", "02", "Page 2 of 5"), contadores decorativos e estatísticas sem fonte. Dados reais necessários (datas, horários, durações, preços) podem.
+**Numeração.** Números de página, de seção ou de card ("01", "02", "Page 2 of 5"), contadores decorativos e estatísticas sem fonte. Dados reais necessários (datas, horários, durações, preços) podem. Por quê: números sugerem um processo ou um ranking que o conteúdo não tem, e estatísticas sem fonte parecem inventadas.
 
-**Barras como separador.** Barra simples ("/") ou dupla ("//") entre palavras, em menus, rótulos, datas ou créditos. Alternativa: espaço, ponto médio, linha, ou um elemento do conceito.
+**Barras como separador.** Barra simples ("/") ou dupla ("//") entre palavras, em menus, rótulos, datas ou créditos. Alternativa: espaço, ponto médio, linha, ou um elemento do conceito. Por quê: é um enfeite no lugar de um separador, comum em menus, datas e créditos gerados.
 
-**Travessões no texto.** Use vírgula, ponto ou dois pontos.
+**Travessões no texto.** Use vírgula, ponto ou dois pontos. Por quê: travessões longos são um dos hábitos mais reconhecíveis de texto gerado.
 
-**Rótulo minúsculo em caixa alta** sobre título grande, repetido em toda seção.
+**Rótulo minúsculo em caixa alta** sobre título grande, repetido em toda seção. Alternativa: um título que se sustenta sozinho. Por quê: é um gesto pronto para criar hierarquia e, repetido em toda seção, vira carimbo de template.
 
-**Serifada itálica** como "toque elegante" automático.
+**Serifada itálica** como "toque elegante" automático. Por quê: é um jeito automático de parecer elegante que aparece em muito trabalho gerado.
 
-**Brilhos e glows**, sombras coloridas difusas, degradês roxo e azul genéricos.
+**Brilhos e glows**, sombras coloridas difusas, degradês roxo e azul genéricos. Alternativa: cor chapada com uma função clara. Por quê: são o padrão de modelos de imagem e de degradês prontos, então dizem "gerado" à primeira vista.
 
-**Grade de três cards iguais** com ícone, título e frase.
+**Grade de três cards iguais** com ícone, título e frase. Alternativa: um layout feito para o conteúdo. Por quê: preenche uma fileira sem decidir o que importa, e a grade molda o conteúdo em vez do contrário.
 
-**Ícones de linha genéricos** no lugar de arte pensada para o conceito.
+**Ícones de linha genéricos** no lugar de arte pensada para o conceito. Por quê: vêm dos mesmos poucos conjuntos de ícones que todo mundo usa, então não dizem nada sobre este conceito.
 
-**Frases vagas de marketing** ("Elevate your sound", "Crafted with passion") e **lorem ipsum**. Escreva texto específico, com nome, lugar e data plausíveis.
+**Frases vagas de marketing** ("Elevate your sound", "Crafted with passion") e **lorem ipsum**. Escreva texto específico, com nome, lugar e data plausíveis. Por quê: uma frase que descreveria qualquer produto não descreve nenhum, e texto provisório esconde se o layout funciona com palavras reais.
 
-**Ilustrar onde a pessoa vai colocar a própria foto.** Ilustração é arte de marca; espaço de foto fica vazio e fácil de trocar.
+**Ilustrar onde a pessoa vai colocar a própria foto.** Ilustração é arte de marca; espaço de foto fica vazio e fácil de trocar. Por quê: a pessoa vai trocar de qualquer jeito, e isso esconde que ainda falta uma foto.
 
-**A mesma composição em todas as seções** (título central, botão abaixo, imagem ao fundo).
+**A mesma composição em todas as seções** (título central, botão abaixo, imagem ao fundo). Alternativa: uma ideia visual por seção. Por quê: repetir um layout faz a página parecer uma ideia só esticada.
 
 ## Fazer
 

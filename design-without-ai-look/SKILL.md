@@ -38,29 +38,29 @@ If the skeleton, palette or typography look like another project's, change them 
 
 ## Default habits to avoid (each one can be released in Step 0)
 
-**Status pills and tags.** Rounded labels such as "NEW", "ON SALE", "LIVE", category tags used as decoration. Alternative: plain text placed well, or an element from the concept's universe (stamp, seal, ticket, button). A label is only worth it when it carries information the visitor needs at that point.
+**Status pills and tags.** Rounded labels such as "NEW", "ON SALE", "LIVE", category tags used as decoration. Alternative: plain text placed well, or an element from the concept's universe (stamp, seal, ticket, button). A label is only worth it when it carries information the visitor needs at that point. Why: generators add a status label to every block to look busy and current, and a label that carries no news is just noise.
 
-**Numbering.** Page, section or card numbers ("01", "02", "Page 2 of 5"), decorative counters and statistics with no source. Real data that is needed (dates, times, durations, prices) is fine.
+**Numbering.** Page, section or card numbers ("01", "02", "Page 2 of 5"), decorative counters and statistics with no source. Real data that is needed (dates, times, durations, prices) is fine. Why: numbers suggest a process or a ranking the content does not have, and statistics with no source look invented.
 
-**Slashes as separators.** A single slash ("/") or double slash ("//") between words, in menus, labels, dates or credits. Alternative: a space, a middle dot, a line, or an element from the concept.
+**Slashes as separators.** A single slash ("/") or double slash ("//") between words, in menus, labels, dates or credits. Alternative: a space, a middle dot, a line, or an element from the concept. Why: it is a decorative stand-in for a separator, common in generated menus, dates and credits.
 
-**Dashes in the text.** Use a comma, a period or a colon.
+**Dashes in the text.** Use a comma, a period or a colon. Why: long dashes are one of the most recognizable habits of generated text.
 
-**Tiny uppercase label** above a big headline, repeated in every section.
+**Tiny uppercase label** above a big headline, repeated in every section. Alternative: a headline that stands on its own. Why: it is a stock gesture for adding hierarchy, and repeated in every section it becomes a template stamp.
 
-**Italic serif** as an automatic "elegant touch".
+**Italic serif** as an automatic "elegant touch". Why: it is an automatic way of looking elegant that turns up in a lot of generated work.
 
-**Glows and shine**, diffuse colored shadows, generic purple and blue gradients.
+**Glows and shine**, diffuse colored shadows, generic purple and blue gradients. Alternative: flat color with a clear job. Why: they are the default of image models and gradient presets, so they say "generated" at first glance.
 
-**A grid of three identical cards** with icon, title and sentence.
+**A grid of three identical cards** with icon, title and sentence. Alternative: a layout built for the content. Why: it fills a row without deciding what matters, so the grid shapes the content instead of the other way around.
 
-**Generic line icons** instead of art made for the concept.
+**Generic line icons** instead of art made for the concept. Why: they come from the same few icon sets everyone uses, so they say nothing about this concept.
 
-**Vague marketing phrases** ("Elevate your sound", "Crafted with passion") and **lorem ipsum**. Write specific copy, with plausible names, places and dates.
+**Vague marketing phrases** ("Elevate your sound", "Crafted with passion") and **lorem ipsum**. Write specific copy, with plausible names, places and dates. Why: a phrase that could describe any product describes none, and placeholder text hides whether the layout works with real words.
 
-**Illustrating where the person will put their own photo.** Illustration is brand art; photo spaces stay empty and easy to swap.
+**Illustrating where the person will put their own photo.** Illustration is brand art; photo spaces stay empty and easy to swap. Why: the person will replace it anyway, and it hides the fact that a photo is still missing.
 
-**The same composition in every section** (centered title, button below, image behind).
+**The same composition in every section** (centered title, button below, image behind). Alternative: one visual idea per section. Why: repeating one layout makes the page read as a single idea stretched out.
 
 ## Do
 
