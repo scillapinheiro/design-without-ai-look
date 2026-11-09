@@ -1,11 +1,11 @@
 ---
 name: "design-without-ai-look"
-description: "Use when designing or coding templates and websites to avoid the generic AI look: own identity, customizable default habits to avoid, realistic copy and a final review."
+description: "Use when designing or coding templates, websites and other graphic material (posters, slides, social posts, banners, covers) to avoid the generic AI look: own identity, customizable default habits to avoid, realistic copy and a final review."
 ---
 
 # Design without the AI look
 
-Use this skill whenever you design a layout, build a design in a tool (Figma, Canva and so on) or turn a design into code. The goal: every project has its own identity, does not look like it came out of a generator, and does not look like another project by the same person.
+Use this skill whenever you design any graphic material (a website or template, poster, slide, social post, banner, cover), build a design in a tool (Figma, Canva and so on) or turn a design into code. The goal: every project has its own identity, does not look like it came out of a generator, and does not look like another project by the same person.
 
 ## Step 0: the person's adjustments (they override every rule below)
 
@@ -30,7 +30,7 @@ If there are no adjustments, ask once, in one sentence: "Do you want to add some
 
 Answer in writing before designing:
 1. What is the concept's universe (objects, materials, places, era, sounds)?
-2. What is the skeleton (order and shape of the sections)? Is it different from projects already made?
+2. What is the skeleton (order and shape of the sections, or of the elements on a single piece)? Is it different from projects already made?
 3. What is the palette (3 to 5 colors, each with a job) and the typography (two families at most)? Does neither repeat another project's?
 4. What is the brand element? Something made only for this concept, that would make no sense in another.
 
@@ -85,6 +85,21 @@ These are matters of taste more than signs of AI. They are on by default because
 - When turning an existing design into code, keep fidelity to it: same sections, order, texts, colors and fonts.
 - Animation with a purpose tied to the concept, not a generic entrance effect on everything.
 - Illustrations and brand elements in SVG, not raster images.
+
+## Other formats
+
+Everything above applies to every format: poster, slide, social post, banner, cover and site template. Identity, realistic copy and the final review do not change. Where a rule was written for sites, this is how it reads in other formats:
+
+| On a website or template | In other formats |
+|---|---|
+| Sections and their order | The order and grouping of the elements on the piece: what is read first, second and last, or the slides of a deck in sequence |
+| One visual idea per section | One visual idea per page, slide or panel |
+| Photo spaces left empty and easy to swap | A clearly marked empty frame or placeholder box, in the size the photo needs |
+| Semantic HTML, CSS variables at the top | Named styles, layers and theme colors, so a color or a font changes in one place |
+| Brand art in SVG, not raster images | Brand art as vector shapes, not flattened images |
+| Menus, footers and cards | Headers, footers, captions, credits and labels |
+| Animation with a purpose | Motion only where the format has it (slide transitions, video, animated banner), with a purpose tied to the concept |
+| Fidelity to an existing design | If you convert an approved design to another format or tool, keep the same content, order, colors and fonts |
 
 ## Final review (before showing)
 

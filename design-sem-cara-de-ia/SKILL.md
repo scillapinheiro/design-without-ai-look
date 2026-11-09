@@ -1,11 +1,11 @@
 ---
 name: "design-sem-cara-de-ia"
-description: "Use ao desenhar ou codar templates e sites para evitar o visual genérico de IA: identidade própria, vícios padrão personalizáveis, texto realista e revisão final."
+description: "Use ao desenhar ou codar templates, sites e outros materiais gráficos (cartazes, slides, posts, banners, capas) para evitar o visual genérico de IA: identidade própria, vícios padrão personalizáveis, texto realista e revisão final."
 ---
 
 # Design sem cara de IA
 
-Use esta skill sempre que for desenhar um layout, materializar um design em uma ferramenta (Figma, Canva etc.) ou transformar um design em código. O objetivo: cada projeto tem identidade própria, não parece saído de um gerador e não parece parecido com outro projeto da mesma pessoa.
+Use esta skill sempre que for desenhar qualquer material gráfico (site ou template, cartaz, slide, post, banner, capa), materializar um design em uma ferramenta (Figma, Canva etc.) ou transformar um design em código. O objetivo: cada projeto tem identidade própria, não parece saído de um gerador e não parece parecido com outro projeto da mesma pessoa.
 
 ## Passo 0: ajustes da pessoa (valem mais que qualquer regra abaixo)
 
@@ -30,7 +30,7 @@ Se não houver ajustes, pergunte uma vez, em uma frase: "Quer acrescentar algo q
 
 Responda por escrito, antes de desenhar:
 1. Qual é o universo do conceito (objetos, materiais, lugares, época, sons)?
-2. Qual é o esqueleto (ordem e forma das seções)? Ele difere dos projetos já feitos?
+2. Qual é o esqueleto (ordem e forma das seções, ou dos elementos numa peça única)? Ele difere dos projetos já feitos?
 3. Qual é a paleta (3 a 5 cores, cada uma com função) e a tipografia (no máximo 2 famílias)? Nenhuma repete a de outro projeto?
 4. Qual é o elemento de marca? Algo feito só para este conceito, que não faria sentido em outro.
 
@@ -85,6 +85,21 @@ Estas são mais questão de gosto do que sinal de IA. Vêm ligadas por padrão p
 - Ao transformar um design existente em código, mantenha a fidelidade a ele: mesmas seções, ordem, textos, cores e fontes.
 - Animação com propósito ligado ao conceito, não efeito de entrada genérico em tudo.
 - Ilustrações e elementos de marca em SVG, não em imagem raster.
+
+## Outros formatos
+
+Tudo o que está acima vale para qualquer formato: cartaz, slide, post, banner, capa e template de site. Identidade, texto realista e revisão final não mudam. Onde uma regra foi escrita para sites, é assim que ela se lê em outros formatos:
+
+| Em um site ou template | Em outros formatos |
+|---|---|
+| Seções e a ordem delas | A ordem e o agrupamento dos elementos na peça: o que se lê primeiro, depois e por último, ou os slides de uma apresentação em sequência |
+| Uma ideia visual por seção | Uma ideia visual por página, slide ou painel |
+| Espaços de foto vazios e fáceis de trocar | Um quadro vazio ou caixa provisória claramente marcada, no tamanho que a foto precisa |
+| HTML semântico, variáveis CSS no topo | Estilos nomeados, camadas e cores de tema, para trocar uma cor ou uma fonte em um lugar só |
+| Arte de marca em SVG, não em imagem raster | Arte de marca em formas vetoriais, não em imagens achatadas |
+| Menus, rodapés e cards | Cabeçalhos, rodapés, legendas, créditos e rótulos |
+| Animação com propósito | Movimento só onde o formato tem (transições de slide, vídeo, banner animado), com propósito ligado ao conceito |
+| Fidelidade a um design existente | Se você converte um design aprovado para outro formato ou ferramenta, mantenha o mesmo conteúdo, ordem, cores e fontes |
 
 ## Revisão final (antes de mostrar)
 

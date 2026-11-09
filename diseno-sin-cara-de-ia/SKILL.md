@@ -1,11 +1,11 @@
 ---
 name: "diseno-sin-cara-de-ia"
-description: "Úsala al diseñar o programar plantillas y sitios web para evitar el aspecto genérico de IA: identidad propia, vicios por defecto personalizables, texto realista y una revisión final."
+description: "Úsala al diseñar o programar plantillas, sitios web y otros materiales gráficos (carteles, diapositivas, publicaciones, banners, portadas) para evitar el aspecto genérico de IA: identidad propia, vicios por defecto personalizables, texto realista y una revisión final."
 ---
 
 # Diseño sin cara de IA
 
-Usa esta skill siempre que diseñes un layout, lo construyas en una herramienta (Figma, Canva, etc.) o conviertas un diseño en código. El objetivo: cada proyecto tiene identidad propia, no parece salido de un generador y no se parece a otro proyecto de la misma persona.
+Usa esta skill siempre que diseñes cualquier material gráfico (sitio web o plantilla, cartel, diapositiva, publicación, banner, portada), lo construyas en una herramienta (Figma, Canva, etc.) o conviertas un diseño en código. El objetivo: cada proyecto tiene identidad propia, no parece salido de un generador y no se parece a otro proyecto de la misma persona.
 
 ## Paso 0: ajustes de la persona (valen más que cualquier regla de abajo)
 
@@ -30,7 +30,7 @@ Si no hay ajustes, pregunta una sola vez, en una frase: "¿Quieres añadir algo 
 
 Responde por escrito antes de diseñar:
 1. ¿Cuál es el universo del concepto (objetos, materiales, lugares, época, sonidos)?
-2. ¿Cuál es el esqueleto (orden y forma de las secciones)? ¿Es distinto de los proyectos ya hechos?
+2. ¿Cuál es el esqueleto (orden y forma de las secciones, o de los elementos en una pieza única)? ¿Es distinto de los proyectos ya hechos?
 3. ¿Cuál es la paleta (3 a 5 colores, cada uno con una función) y la tipografía (máximo 2 familias)? ¿Ninguna repite la de otro proyecto?
 4. ¿Cuál es el elemento de marca? Algo hecho solo para este concepto, que no tendría sentido en otro.
 
@@ -85,6 +85,21 @@ Estas son más cuestión de gusto que señal de IA. Vienen activadas por defecto
 - Al convertir un diseño existente en código, mantén la fidelidad a él: mismas secciones, orden, textos, colores y fuentes.
 - Animación con propósito ligado al concepto, no un efecto de entrada genérico en todo.
 - Ilustraciones y elementos de marca en SVG, no en imagen raster.
+
+## Otros formatos
+
+Todo lo anterior vale para cualquier formato: cartel, diapositiva, publicación, banner, portada y plantilla de sitio web. La identidad, el texto realista y la revisión final no cambian. Donde una regla se escribió para sitios web, así se lee en otros formatos:
+
+| En un sitio web o plantilla | En otros formatos |
+|---|---|
+| Secciones y su orden | El orden y la agrupación de los elementos en la pieza: qué se lee primero, después y al final, o las diapositivas de una presentación en secuencia |
+| Una idea visual por sección | Una idea visual por página, diapositiva o panel |
+| Espacios de foto vacíos y fáciles de cambiar | Un marco vacío o caja provisional claramente marcada, con el tamaño que la foto necesita |
+| HTML semántico, variables CSS al inicio | Estilos con nombre, capas y colores de tema, para cambiar un color o una fuente en un solo lugar |
+| Arte de marca en SVG, no en imágenes raster | Arte de marca en formas vectoriales, no en imágenes aplanadas |
+| Menús, pies de página y tarjetas | Encabezados, pies de página, leyendas, créditos y etiquetas |
+| Animación con propósito | Movimiento solo donde el formato lo tiene (transiciones de diapositiva, vídeo, banner animado), con un propósito ligado al concepto |
+| Fidelidad a un diseño existente | Si conviertes un diseño aprobado a otro formato o herramienta, mantén el mismo contenido, orden, colores y fuentes |
 
 ## Revisión final (antes de mostrar)
 
