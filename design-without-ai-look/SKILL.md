@@ -29,7 +29,7 @@ If there are no adjustments, ask once, in one sentence: "Do you want to add some
 ## Step 1: identity before layout
 
 Answer in writing before designing:
-1. What is the concept's universe (objects, materials, places, era, sounds)?
+1. What is the concept's real universe (objects, materials, places, era, sounds)? Start from what the person would really have at hand, such as an owner's counter or a teacher's piano, not from a design metaphor.
 2. What is the skeleton (order and shape of the sections, or of the elements on a single piece)? Is it different from projects already made?
 3. What is the palette (3 to 5 colors, each with a job) and the typography (two families at most)? Does neither repeat another project's?
 4. What is the brand element? Something made only for this concept, that would make no sense in another.
@@ -62,7 +62,7 @@ Write these decisions down, with real numbers, before you draw. They are also th
 
 ## Habits that give AI work away (each one can be released in Step 0)
 
-**Status pills and tags.** Rounded labels such as "NEW", "ON SALE", "LIVE", category tags used as decoration. Alternative: plain text placed well, or an element from the concept's universe (stamp, seal, ticket, button). A label is only worth it when it carries information the visitor needs at that point. Why: generators add a status label to every block to look busy and current, and a label that carries no news is just noise.
+**Status pills and tags.** Rounded labels such as "NEW", "ON SALE", "LIVE", category tags used as decoration. Alternative: plain text placed well, or an element from the concept's real universe that has not appeared in another project. Do not repeat the same alternative in neighboring sections. A label is only worth it when it carries information the visitor needs at that point. Why: generators add a status label to every block to look busy and current, and a label that carries no news is just noise.
 
 **Numbering.** Page, section or card numbers ("01", "02", "Page 2 of 5"), decorative counters and statistics with no source. Real data that is needed (dates, times, durations, prices) is fine. Why: numbers suggest a process or a ranking the content does not have, and statistics with no source look invented.
 
