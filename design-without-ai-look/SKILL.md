@@ -47,6 +47,8 @@ Example of the written answers, for a flyer for a community choir's autumn conce
 3. Palette: ink brown for text, pumpkin for the date, cream for the paper, moss for small details. One serif for the choir's name and one plain sans for everything else.
 4. Brand element: a row of singers drawn as simple shapes that grow from left to right like a rising scale. It would make no sense on any other piece.
 
+Before choosing, write three directions that really differ in palette, typography and structure, in one or two lines each. Each one must be justified by the business (real objects, place, customers), not only by being different from the others: different but incoherent also fails. Pick one and say why.
+
 ## Step 2: decide before drawing
 
 Write these decisions down, with real numbers, before you draw. They are also the checklist for the final review.
