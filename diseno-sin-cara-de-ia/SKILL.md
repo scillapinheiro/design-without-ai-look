@@ -136,6 +136,7 @@ Todo lo anterior vale para cualquier formato: cartel, diapositiva, publicación,
 1. Revisa uno por uno los ajustes de la persona y la lista de vicios de arriba. Busca en especial píldoras olvidadas, números, barras y rayas en menús, pies de página, tarjetas y textos de apoyo.
 2. Comprueba el resultado contra las decisiones de tu Paso 2: elemento dominante, escala tipográfica, unidad de espaciado, tres movimientos de composición.
 3. Si puedes renderizar, renderiza en tamaño de escritorio y de móvil y ejecuta las seis primeras pruebas de abajo. Si no puedes, di que no comprobaste el resultado visual. La última prueba vale siempre.
+4. Informa de lo que encontraste y de lo que cambiaste.
 
 | Prueba | Qué buscar |
 |---|---|
@@ -146,5 +147,3 @@ Todo lo anterior vale para cualquier formato: cartel, diapositiva, publicación,
 | Corte y vacío | Texto cortado por un borde, solapamientos, grandes zonas vacías |
 | Cambio de fuente | Sustituye la fuente del titular por el par de reflejo más cercano al estilo elegido (por ejemplo, Poppins 800 para un titular redondeado y pesado): si la página queda igual o mejor, la elección de fuente no está trabajando para el concepto |
 | Logo | Quita el logo: ¿alguien sabría de qué proyecto es? Si no, falta identidad |
-
-4. Informa de lo que encontraste y de lo que cambiaste.

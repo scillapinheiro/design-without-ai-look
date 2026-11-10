@@ -136,6 +136,7 @@ Tudo o que está acima vale para qualquer formato: cartaz, slide, post, banner, 
 1. Confira item por item os ajustes da pessoa e a lista de vícios acima. Procure em especial pílulas esquecidas, números, barras e travessões em menus, rodapés, cards e textos de apoio.
 2. Confira o resultado contra as decisões do seu Passo 2: elemento dominante, escala tipográfica, unidade de espaçamento, três movimentos de composição.
 3. Se puder renderizar, renderize em tamanho de desktop e de celular e rode os seis primeiros testes abaixo. Se não puder, diga que não conferiu o resultado visual. O último teste vale sempre.
+4. Reporte o que encontrou e o que mudou.
 
 | Teste | O que procurar |
 |---|---|
@@ -146,5 +147,3 @@ Tudo o que está acima vale para qualquer formato: cartaz, slide, post, banner, 
 | Corte e vazio | Texto cortado pela borda, sobreposições, grandes áreas vazias |
 | Troca de fonte | Troque a fonte de título pela dupla de reflexo mais próxima do estilo escolhido (por exemplo, Poppins 800 para um título arredondado e pesado): se a página fica igual ou melhor, a escolha da fonte não está trabalhando pelo conceito |
 | Logo | Tire o logo: alguém saberia de qual projeto é? Se não, falta identidade |
-
-4. Reporte o que encontrou e o que mudou.
