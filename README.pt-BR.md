@@ -32,10 +32,10 @@ A skill dá à IA uma lista padrão desses vícios a evitar, pede que ela defina
 ## :bulb: Como funciona
 
 - **Os seus ajustes vêm primeiro.** A lista padrão é um ponto de partida. Você pode acrescentar o que não quer ver, liberar vícios padrão de que gosta e trocar a alternativa sugerida para qualquer um.
-- **Identidade antes do layout.** Antes de desenhar, a IA responde por escrito: qual é o universo do conceito, qual é o esqueleto, qual paleta e tipografia, e qual é o elemento de marca que não faria sentido em outro projeto.
+- **Identidade antes do layout.** Antes de desenhar, a IA responde por escrito: qual é o universo do conceito, qual é o esqueleto, qual paleta e tipografia, e qual é o elemento de marca que não faria sentido em nenhum outro lugar. Antes disso, ela pede o seu gosto em uma frase.
 - **Uma lista de vícios, cada um com alternativa.** Não só "não faça isso", mas o que fazer no lugar.
 - **Qualquer material gráfico.** Cartazes, slides, posts, banners, capas e templates de site. Uma tabela na skill diz como cada regra de site se lê nos outros formatos.
-- **Uma revisão final.** Um teste do logo (sem o logo, alguém saberia de quem é o projeto?) e um teste da vizinhança (ao lado de outro projeto seu, é fácil confundir os dois?).
+- **Uma revisão final.** Testes que dá para rodar no resultado (desfoque, cinza, troca de texto, contagem, corte e vazio, troca de fonte) e um teste do logo (sem o logo, alguém saberia de quem é o projeto?). Os primeiros precisam de um render; se a IA não puder renderizar, ela avisa que não conferiu.
 
 ## :sparkles: O que ela evita
 
@@ -57,7 +57,7 @@ Barras, travessões e serifada itálica são implicâncias da autora: vêm ligad
 
 ## :eyes: Como usar
 
-O repositório tem três pastas com a mesma skill em três idiomas.
+O repositório tem três pastas com a mesma skill em três idiomas. A versão em inglês é a de referência; as outras duas seguem o conteúdo dela.
 
 | Idioma | Pasta |
 |---|---|

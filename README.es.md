@@ -32,10 +32,10 @@ La skill le da a la IA una lista por defecto de esos vicios que evitar, le pide 
 ## :bulb: Cómo funciona
 
 - **Tus ajustes van primero.** La lista por defecto es un punto de partida. Puedes añadir lo que no quieres ver, liberar vicios por defecto que sí te gustan y cambiar la alternativa sugerida para cualquiera.
-- **Identidad antes del layout.** Antes de dibujar, la IA responde por escrito: cuál es el universo del concepto, cuál es el esqueleto, qué paleta y tipografía, y cuál es el elemento de marca que no tendría sentido en otro proyecto.
+- **Identidad antes del layout.** Antes de dibujar, la IA responde por escrito: cuál es el universo del concepto, cuál es el esqueleto, qué paleta y tipografía, y cuál es el elemento de marca que no tendría sentido en ningún otro lugar. Antes de eso, pide tu gusto en una frase.
 - **Una lista de vicios, cada uno con alternativa.** No solo "no hagas esto", sino qué hacer en su lugar.
 - **Cualquier material gráfico.** Carteles, diapositivas, publicaciones, banners, portadas y plantillas de sitio web. Una tabla en la skill dice cómo se lee cada regla de sitio web en los otros formatos.
-- **Una revisión final.** Una prueba del logo (sin el logo, ¿alguien sabría de quién es el proyecto?) y una prueba del vecino (junto a otro proyecto tuyo, ¿es fácil confundirlos?).
+- **Una revisión final.** Pruebas que se pueden ejecutar sobre el resultado (desenfoque, gris, cambio de texto, recuento, corte y vacío, cambio de fuente) y una prueba del logo (sin el logo, ¿alguien sabría de quién es el proyecto?). Las primeras necesitan un render; si la IA no puede renderizar, avisa de que no lo comprobó.
 
 ## :sparkles: Qué evita
 
@@ -57,7 +57,7 @@ Las barras, las rayas y la serif cursiva son manías de la autora: vienen activa
 
 ## :eyes: Cómo usarla
 
-El repositorio tiene tres carpetas con la misma skill en tres idiomas.
+El repositorio tiene tres carpetas con la misma skill en tres idiomas. La versión en inglés es la de referencia; las otras dos siguen su contenido.
 
 | Idioma | Carpeta |
 |---|---|

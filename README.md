@@ -32,10 +32,10 @@ The skill gives the AI a default list of those habits to avoid, asks it to defin
 ## :bulb: How it works
 
 - **Your adjustments come first.** The default list is a starting point. You can add your own things to avoid, release default habits you actually like, and swap the suggested alternative for any habit.
-- **Identity before layout.** Before drawing, the AI answers in writing: what is the concept's universe, what is the skeleton, which palette and type, and what is the brand element that would make no sense in another project.
+- **Identity before layout.** Before drawing, the AI answers in writing: what is the concept's universe, what is the skeleton, which palette and type, and what is the brand element that would make no sense anywhere else. Before that, it asks for your taste in one sentence.
 - **A list of habits, each with an alternative.** Not just "do not do this", but what to do instead.
 - **Any graphic material.** Posters, slides, social posts, banners, covers and site templates. A table in the skill says how each website rule reads in the other formats.
-- **A final review.** A logo test (without the logo, would anyone know whose project this is?) and a neighbor test (next to another of your projects, are they easy to confuse?).
+- **A final review.** Checks you can run on the result (blur, gray, text swap, count, cut and empty, font swap) and a logo test (without the logo, would anyone know whose project this is?). The first ones need a render; if the AI cannot render, it says it did not check.
 
 ## :sparkles: What it avoids
 
@@ -57,7 +57,7 @@ Slashes, dashes and italic serif are the author's own pet peeves: they are on by
 
 ## :eyes: How to use
 
-The repository has three folders with the same skill in three languages.
+The repository has three folders with the same skill in three languages. English is the reference version; the other two follow its content.
 
 | Language | Folder |
 |---|---|
