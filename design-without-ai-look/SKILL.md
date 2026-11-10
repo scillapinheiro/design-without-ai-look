@@ -5,7 +5,7 @@ description: "Use when designing or coding templates, websites and other graphic
 
 # Design without the AI look
 
-Use this skill whenever you design any graphic material (a website or template, poster, slide, social post, banner, cover), build a design in a tool (Figma, Canva and so on) or turn a design into code. The goal: give each project a better chance of an identity of its own, one that is not the generator default and not another project by the same person.
+Use this skill whenever you design any graphic material (a website or template, poster, slide, social post, banner, cover), build a design in a tool (Figma, Canva and so on) or turn a design into code. The goal: give each project a better chance of an identity of its own, one that is not the generator default.
 
 ## Step 0: the person's adjustments (they override every rule below)
 
@@ -24,19 +24,19 @@ Release (no need to remove): ...
 Preferred alternatives: ...
 ```
 
-If there are no adjustments, ask once, in one sentence: "Do you want to add something you never want to see, or release any of the default habits?". Write the answer into the block above and follow it for the whole project. Restate the rules in force at the start of the work.
+If there are no adjustments, ask once, in the same message as the taste question of Step 1, so the person gets one message and not two: "Do you want to add something you never want to see, or release any of the default habits? And how do you like it to look? Shapes, colors, density, what looks beautiful to you and what looks ugly.". If the person answers only one of the two questions, use the answer that came and keep the default habits for the rest. Write the adjustments into the block above and follow them for the whole project. Restate the rules in force at the start of the work.
 
 ## Step 1: identity before layout
 
-Answer in writing before designing:
+Before choosing anything, you need the person's taste in one sentence. It is asked in the Step 0 message above; if the adjustments were found in a file and Step 0 asked nothing, ask it alone, for example: "How do you like it to look? Shapes, colors, density, what looks beautiful to you and what looks ugly." If they have references, use them. If they have none, that one sentence is enough. Design without any of this only if the person says they have no preference. If a brief, a brand or earlier answers already show their taste, use that and do not ask again. Why: in tests, with no taste given the result fell to the average of what "looks like good design", and with one sentence of taste it got much better.
+
+Before the four answers below, write three directions in one or two lines each. If the person gave no references, derive them from the real content of the product (its objects, place, customers, what is actually on the page) and make them differ in at least three of these axes: density, color temperature, the voice of the typography, the language of shape. Each axis must differ by category and in a way anyone would notice (warm or cool, sparse or dense, a serif or a rounded sans, curved or orthogonal), not by degree (a bit warmer, a bit denser). Check every pair of directions: if two of the axes you are counting differ only a little, strengthen those axes or replace the direction. A different description is not enough, the choices themselves must differ. Each direction must be justified by the business, not only by being different from the others: different but incoherent also fails. Pick one and say why; the four answers below are for that direction.
+
+Then answer in writing before designing, for the direction you picked:
 1. What is the concept's real universe (objects, materials, places, era, sounds)? Start from what the person would really have at hand, such as an owner's counter or a teacher's piano, not from a design metaphor.
-2. What is the skeleton (order and shape of the sections, or of the elements on a single piece)? Is it different from projects already made?
-3. What is the palette (3 to 5 colors, each with a job) and the typography (two families at most)? Does neither repeat another project's?
+2. What is the skeleton (order and shape of the sections, or of the elements on a single piece)?
+3. What is the palette (3 to 5 colors, each with a job) and the typography (chosen as the typography paragraph below says)?
 4. What is the brand element? Something made only for this concept, that would make no sense in another.
-
-If the skeleton, palette or typography look like another project's, change them before going on.
-
-If no other projects are in view, ask for one reference, or skip the comparison and say that you skipped it.
 
 If the person already has brand colors, fonts or a logo, those are the identity. Use them and build the rest (composition, shapes, tone) around them. Question 3 then becomes: which of the brand's colors and fonts do I use, and for what job?
 
@@ -44,10 +44,10 @@ Example of the written answers, for a flyer for a community choir's autumn conce
 
 1. Universe: sheet music, breath, wooden church benches, October light.
 2. Skeleton: one tall piece. The date and place come first and big, the program is a staggered list, the ticket line sits at the bottom. Not a centered title with a button.
-3. Palette: ink brown for text, pumpkin for the date, cream for the paper, moss for small details. One serif for the choir's name and one plain sans for everything else.
+3. Palette: ink brown for text, pumpkin for the date, cream for the paper, moss for small details. One serif for the choir's name (headlines) and one plain sans for the program and the ticket line (text and data).
 4. Brand element: a row of singers drawn as simple shapes that grow from left to right like a rising scale. It would make no sense on any other piece.
 
-Before choosing, write three directions that really differ in palette, typography and structure, in one or two lines each. Each one must be justified by the business (real objects, place, customers), not only by being different from the others: different but incoherent also fails. Pick one and say why.
+Typography. Use the families the concept calls for and justify each one by its job (headlines, text, data). Work in this order. First write what the small text has to do (prices, dates, captions, fine print) and where it will be read, because that sets what the family must survive. Then propose three candidate pairs (or single families) tied to the concept's universe, such as a sign painter's hand, a ledger, a hymnal, and say why each fits. Pick one and say why. When you choose a family, check that it has complete ã, ç, é and ô, in the weights you will use. Do not start from the reflex pairs given as examples in the habits below.
 
 ## Step 2: decide before drawing
 
@@ -64,7 +64,7 @@ Write these decisions down, with real numbers, before you draw. They are also th
 
 The principle comes before the list: if your first idea would fit any business of the same type, discard it and start again from this business.
 
-**Status pills and tags.** Rounded labels such as "NEW", "ON SALE", "LIVE", category tags used as decoration. Alternative: plain text placed well, or an element from the concept's real universe that has not appeared in another project. Do not repeat the same alternative in neighboring sections. A label is only worth it when it carries information the visitor needs at that point. Why: generators add a status label to every block to look busy and current, and a label that carries no news is just noise.
+**Status pills and tags.** Rounded labels such as "NEW", "ON SALE", "LIVE", category tags used as decoration. Alternative: plain text placed well, or an element from the concept's real universe. Do not repeat the same alternative in neighboring sections. A label is only worth it when it carries information the visitor needs at that point. Why: generators add a status label to every block to look busy and current, and a label that carries no news is just noise.
 
 **Numbering.** Page, section or card numbers ("01", "02", "Page 2 of 5"), decorative counters and statistics with no source. Real data that is needed (dates, times, durations, prices) is fine. Why: numbers suggest a process or a ranking the content does not have, and statistics with no source look invented.
 
@@ -77,6 +77,8 @@ The principle comes before the list: if your first idea would fit any business o
 **Generic line icons** instead of art made for the concept. Why: they come from the same few icon sets everyone uses, so they say nothing about this concept.
 
 **Vague marketing phrases** ("Elevate your sound", "Crafted with passion") and **lorem ipsum**. Write specific copy, with plausible names, places and dates. Why: a phrase that could describe any product describes none, and placeholder text hides whether the layout works with real words.
+
+**Choosing a font pair by reflex.** The habit is picking the pair without thinking, not the pair itself: no font is forbidden. Alternative: the candidates you proposed in Step 1, tied to the concept. Why: the fonts that appear first in generated work say "default" before anyone reads a word. If the concept justifies one of them by its job (headlines, text, data), use it and say why. Examples of pairs models reach for (a guess for the author to review, and a list that ages like the examples below): Playfair Display with Inter or Lato, Fraunces with Inter, DM Serif Display with DM Sans, Cormorant Garamond with Montserrat, Space Grotesk for everything, Poppins or Montserrat alone for everything, Inter alone.
 
 **Illustrating where the person will put their own photo.** Illustration is brand art; photo spaces stay empty and easy to swap. Why: the person will replace it anyway, and it hides the fact that a photo is still missing.
 
@@ -133,7 +135,7 @@ Everything above applies to every format: poster, slide, social post, banner, co
 
 1. Check the person's adjustments and the habits above, item by item. Look especially for forgotten pills, numbers, slashes and dashes in menus, footers, cards and supporting text.
 2. Check the result against your Step 2 decisions: dominant element, type scale, spacing unit, three composition moves.
-3. If you can render, render at desktop and phone sizes and run the first five tests below. If you cannot, say that you did not check the visual result. The last two tests always apply.
+3. If you can render, render at desktop and phone sizes and run the first six tests below. If you cannot, say that you did not check the visual result. The last test always applies.
 
 | Test | What to look for |
 |---|---|
@@ -142,7 +144,7 @@ Everything above applies to every format: poster, slide, social post, banner, co
 | Swap | Put another business's text in: if nothing about the page objects, it is generic |
 | Count | Font sizes, colors and repeated components: more than you decided in Step 2? |
 | Cut and empty | Text cut by an edge, overlaps, large empty areas |
+| Font swap | Replace the display font with the closest reflex pair for the style you chose (for example Poppins 800 for a heavy rounded headline): if the page looks the same or better, the font choice is not doing any work for the concept |
 | Logo | Remove the logo: would anyone know which project this is? If not, identity is missing |
-| Neighbor | Put it next to another project by the same person: if swapping the name and the color would be enough to confuse the two, redo the skeleton. If no other work is in view, ask for one reference or skip this test and say that you skipped it |
 
 4. Report what you found and what you changed.
