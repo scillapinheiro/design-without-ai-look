@@ -1,8 +1,8 @@
 # Changelog
 
-## 1.0.0 (unreleased)
+## 1.0.0 (2026-11-10)
 
-First public release. The release date is set when the tag is created.
+First public release.
 
 - The skill in English, Portuguese and Spanish. English is the reference version; the other two follow its content.
 - Step 0: the person's adjustments (add, release, swap alternatives). The skill also looks for them in AGENTS.md and other instruction files, not only in CLAUDE.md.
